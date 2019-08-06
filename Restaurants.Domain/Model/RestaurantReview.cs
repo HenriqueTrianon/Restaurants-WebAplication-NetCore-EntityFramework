@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Restaurants.Infra.Core;
 
 namespace Restaurants.Domain.Model
 {
-    public class RestaurantReview
+    public class RestaurantReview:BaseModifiableEntity<int>
     {
         public int Rating { get; set; }
         public string Body { get; set; }
         public string ReviewerName { get; set; }
         public int RestaurantID { get; set; }
-
     }
 }

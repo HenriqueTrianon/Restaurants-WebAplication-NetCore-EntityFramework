@@ -1,8 +1,9 @@
 ﻿using System.Collections.Generic;
+using Restaurants.Infra.Core;
 
 namespace Restaurants.Domain.Model
 {
-    public class Restaurant
+    public class Restaurant:BaseModifiableEntity<int>
     {
         public string Name { get; set; }
         public string City { get; set; }

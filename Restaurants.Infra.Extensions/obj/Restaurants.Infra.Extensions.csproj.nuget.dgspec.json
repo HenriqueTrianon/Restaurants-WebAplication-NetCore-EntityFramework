@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\.vs\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj": {}
+    "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\.vs\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj": {
+    "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\.vs\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj",
+        "projectUniqueName": "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj",
         "projectName": "Restaurants.Infra.Extensions",
-        "projectPath": "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\.vs\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj",
+        "projectPath": "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants.Infra.Extensions\\Restaurants.Infra.Extensions.csproj",
         "packagesPath": "C:\\Users\\Trian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\.vs\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants\\Restaurants.Infra.Extensions\\obj\\",
+        "outputPath": "C:\\Users\\Trian\\source\\repos\\HenriqueTrianon\\Restaurants-WebAplication-NetCore-EntityFramework\\Restaurants.Infra.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
